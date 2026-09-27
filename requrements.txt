@@ -1,0 +1,9 @@
+# Personal Expense & Income Tracker
+
+A modular CLI-based Python app to log expenses and calculate savings analytics using flat file storage.
+
+## How to Run
+
+1. Run the Application:
+   ```bash
+   python main.py
