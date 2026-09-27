@@ -5,7 +5,7 @@ from src.validator import validate_amount, validate_choice
 def main():
     while True:
         print("\n==================================")
-        print("  PERSONAL EXPENSE & INCOME TRACKER")
+        print("  PERSONAL EXPENSE & INCOME TRACKER MANAGER")
         print("==================================")
         print("1. Add Income  2. Add Expense  3. View  4. Analytics  5. Exit")
         ok, ch = validate_choice(input("Choice: "), 5)
